@@ -1,4 +1,5 @@
-### Hi there 👋, I'm Bobby and I am an Experienced IT Analyst in Telecom Infrastructure and Assets Management. Skilled in Computer Hardware, Computer Networking and Customer Service. Graduated from O'Sullivan College of Quebec as a Network Specialist and University of Calgary as a Full-Stack Developer.
+<h1> Hi there 👋, I'm Bobby </h1>
+<h3>and I am an Experienced IT Analyst in Telecom Infrastructure and Assets Management. Skilled in Computer Hardware, Computer Networking and Customer Service. Graduated from O'Sullivan College of Quebec as a Network Specialist and University of Calgary as a Full-Stack Developer.</h3>
 
 <!--
 **BobbyTherio/bobbytherio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
